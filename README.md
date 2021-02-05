@@ -1,0 +1,1 @@
+This project is to use html and css along with google inspector developer tools to replicate google search homepage.
